@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Thats some good HASH"
-date:       2017-12-09 18:19:36 +0000
+title:      " HASH = {:Eric => :Happy}"
+date:       2017-12-09 13:19:37 -0500
 permalink:  thats_some_good_hash
 ---
 
